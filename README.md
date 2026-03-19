@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neelima Nandigam</h1>
-<h3 align="center">Curious learner with 3+ years of experience in turning data into actionable insights for smarter decisions.</h3>
+<h3 align="center">Curious learner with experience in turning data into actionable insights for smarter decisions.</h3>
 
 - 🔭 I’m currently working on **Tableau**
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [neelimanandigam25.github.io](neelimanandigam25.github.io)
 
-- 💬 Ask me about **SQL, Python**
+- 💬 Ask me about **SQL, Python, Power BI, Tableau**
 
-- 📫 How to reach me **nnrao2503@gmail.com**
+- 📫 How to reach me **neeliman25000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
